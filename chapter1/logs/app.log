@@ -1,0 +1,5 @@
+2026-03-08 21:05:27.080 [main] INFO  com.example.array.service.CustomArrayService - Array sorted by bubble sort
+2026-03-08 21:05:27.094 [main] INFO  com.example.array.service.CustomArrayService - Max value found: 9
+2026-03-08 21:05:27.096 [main] INFO  com.example.array.service.CustomArrayService - Min value found: 1
+2026-03-08 21:05:27.100 [main] INFO  com.example.array.service.CustomArrayService - Array sorted by selection sort
+2026-03-08 21:05:27.103 [main] INFO  com.example.array.service.CustomArrayService - Sum calculated: 28
