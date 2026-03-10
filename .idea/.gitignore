@@ -1,5 +1,9 @@
+cat > .gitignore << 'EOF'
 target/
 .idea/
 *.iml
+*.DS_Store
+~$*
 logs/
 *.class
+EOF
